@@ -1,0 +1,4 @@
+baseURL = 'https://simpleblueanalyst.com/'
+languageCode = 'en-us'
+title = 'Not so complicated blueteam'
+theme = 'hugo-blog-awesome'
